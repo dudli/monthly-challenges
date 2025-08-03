@@ -1,7 +1,8 @@
 [
   {
     "task": "Study",
-    "date": "2025-08-01",
-    "duration": 2700
-  }
+    "date": "2025-08",
+    "duration": 120
+  },
+  "description": "Do a two-hour study session!"
   ]
