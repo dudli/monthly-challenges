@@ -1,8 +1,11 @@
 [
   {
-    "task": "Study",
-    "date": "2025-08",
-    "duration": 120
-  },
-  "description": "Do a two-hour study session!"
+    "description": "Study",
+    "condition": {
+      "metric": 'task_count', // task_count, duration
+      "timeframe": 'current_month',
+      "task_filter": 'all', // Play, Analyis, Puzzle, Study
+      "operator": '>=',
+      "value": 3
+    }
   ]
