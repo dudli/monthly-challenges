@@ -2,11 +2,11 @@
   {
     "description": "Study",
     "condition": {
-      "metric": "task_count",
+      "metric": "duration",
       "timeframe": "current_month",
-      "task_filter": "all",
+      "task_filter": "Study",
       "operator": ">=",
-      "value": 3
+      "value": 300
     }
   }
 ]
