@@ -1,6 +1,6 @@
 [
   {
-    "description": "Study",
+    "description": "Study for a total of 5 hours",
     "condition": {
       "metric": "duration",
       "timeframe": "current_month",
