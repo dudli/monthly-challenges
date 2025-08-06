@@ -2,10 +2,11 @@
   {
     "description": "Study",
     "condition": {
-      "metric": 'task_count', // task_count, duration
-      "timeframe": 'current_month',
-      "task_filter": 'all', // Play, Analyis, Puzzle, Study
-      "operator": '>=',
+      "metric": "task_count",
+      "timeframe": "current_month",
+      "task_filter": "all",
+      "operator": ">=",
       "value": 3
     }
-  ]
+  }
+]
